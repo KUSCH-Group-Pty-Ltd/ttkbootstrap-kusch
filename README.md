@@ -36,10 +36,10 @@ ttkbootstrap comes with several new beautifully designed widgets such as **Meter
 Want to create your own theme? Easy! ttkboostrap includes a built-in **theme creator** that enables you to easily build, load, expore, and apply your own custom themes.
 
 ## Installation
-Install ttkbootstrap using pip in the terminal/command prompt!
+Install ttkbootstrap-kusch using pip in the terminal/command prompt!
 
 ```python
-python -m pip install ttkbootstrap
+python -m pip install git+https://github.com/KUSCH-Group-Pty-Ltd/ttkbootstrap-kusch
 ```
 
 ## Simple Usage
