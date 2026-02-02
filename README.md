@@ -53,7 +53,7 @@ import ttkbootstrap as ttk
 Then create a window using the ttk.Window(...) and .mainloop() commands.
 And add a couple buttons (b1 and b2) to create your first window!
 ```python
-root = ttk.Window(themename="superhero")
+root = ttk.Window(themename="superhero") # our themes are "kusch_theme_dark" and "kusch_theme_light"
 
 b1 = ttk.Button(root, text="Submit", bootstyle="success")
 b1.pack(side=LEFT, padx=5, pady=10)
